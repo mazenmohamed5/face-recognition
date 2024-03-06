@@ -92,7 +92,7 @@
    "execution_count": 3,
    "id": "8842dcbf",
    "metadata": {
-    "scrolled": true
+    "scrolled": True
    },
    "outputs": [
     {
